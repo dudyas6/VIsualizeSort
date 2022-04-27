@@ -10,5 +10,5 @@ Post-sorted:
 ![This is an image](/Preview/postsort.png)
 
 
-While running u'll see all the sorting done by the second, so you can try running it yourself. 
-To change current sorthing method, go to Visualizer.java and queue.add(new sortType), that is alrdy in algorithms folder.
+>While running u'll see all the sorting done by the second, so you can try running it yourself. 
+>To change current sorthing method, go to ***Visualizer.java and ``` queue.add(new sortType) ```***, that is already in algorithms folder.
